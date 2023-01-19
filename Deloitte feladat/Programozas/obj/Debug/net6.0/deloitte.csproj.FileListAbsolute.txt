@@ -1,0 +1,30 @@
+C:\Users\Matyi\OneDrive\Asztali gép\c#\deloitte\bin\Debug\net6.0\deloitte.exe
+C:\Users\Matyi\OneDrive\Asztali gép\c#\deloitte\bin\Debug\net6.0\deloitte.deps.json
+C:\Users\Matyi\OneDrive\Asztali gép\c#\deloitte\bin\Debug\net6.0\deloitte.runtimeconfig.json
+C:\Users\Matyi\OneDrive\Asztali gép\c#\deloitte\bin\Debug\net6.0\deloitte.dll
+C:\Users\Matyi\OneDrive\Asztali gép\c#\deloitte\bin\Debug\net6.0\deloitte.pdb
+C:\Users\Matyi\OneDrive\Asztali gép\c#\deloitte\obj\Debug\net6.0\deloitte.csproj.AssemblyReference.cache
+C:\Users\Matyi\OneDrive\Asztali gép\c#\deloitte\obj\Debug\net6.0\deloitte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matyi\OneDrive\Asztali gép\c#\deloitte\obj\Debug\net6.0\deloitte.AssemblyInfoInputs.cache
+C:\Users\Matyi\OneDrive\Asztali gép\c#\deloitte\obj\Debug\net6.0\deloitte.AssemblyInfo.cs
+C:\Users\Matyi\OneDrive\Asztali gép\c#\deloitte\obj\Debug\net6.0\deloitte.csproj.CoreCompileInputs.cache
+C:\Users\Matyi\OneDrive\Asztali gép\c#\deloitte\obj\Debug\net6.0\deloitte.dll
+C:\Users\Matyi\OneDrive\Asztali gép\c#\deloitte\obj\Debug\net6.0\refint\deloitte.dll
+C:\Users\Matyi\OneDrive\Asztali gép\c#\deloitte\obj\Debug\net6.0\deloitte.pdb
+C:\Users\Matyi\OneDrive\Asztali gép\c#\deloitte\obj\Debug\net6.0\deloitte.genruntimeconfig.cache
+C:\Users\Matyi\OneDrive\Asztali gép\c#\deloitte\obj\Debug\net6.0\ref\deloitte.dll
+C:\Users\Matyi\OneDrive\Asztali gép\Deloitte feladat\Programozas\bin\Debug\net6.0\deloitte.exe
+C:\Users\Matyi\OneDrive\Asztali gép\Deloitte feladat\Programozas\bin\Debug\net6.0\deloitte.deps.json
+C:\Users\Matyi\OneDrive\Asztali gép\Deloitte feladat\Programozas\bin\Debug\net6.0\deloitte.runtimeconfig.json
+C:\Users\Matyi\OneDrive\Asztali gép\Deloitte feladat\Programozas\bin\Debug\net6.0\deloitte.dll
+C:\Users\Matyi\OneDrive\Asztali gép\Deloitte feladat\Programozas\bin\Debug\net6.0\deloitte.pdb
+C:\Users\Matyi\OneDrive\Asztali gép\Deloitte feladat\Programozas\obj\Debug\net6.0\deloitte.csproj.AssemblyReference.cache
+C:\Users\Matyi\OneDrive\Asztali gép\Deloitte feladat\Programozas\obj\Debug\net6.0\deloitte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matyi\OneDrive\Asztali gép\Deloitte feladat\Programozas\obj\Debug\net6.0\deloitte.AssemblyInfoInputs.cache
+C:\Users\Matyi\OneDrive\Asztali gép\Deloitte feladat\Programozas\obj\Debug\net6.0\deloitte.AssemblyInfo.cs
+C:\Users\Matyi\OneDrive\Asztali gép\Deloitte feladat\Programozas\obj\Debug\net6.0\deloitte.csproj.CoreCompileInputs.cache
+C:\Users\Matyi\OneDrive\Asztali gép\Deloitte feladat\Programozas\obj\Debug\net6.0\deloitte.dll
+C:\Users\Matyi\OneDrive\Asztali gép\Deloitte feladat\Programozas\obj\Debug\net6.0\refint\deloitte.dll
+C:\Users\Matyi\OneDrive\Asztali gép\Deloitte feladat\Programozas\obj\Debug\net6.0\deloitte.pdb
+C:\Users\Matyi\OneDrive\Asztali gép\Deloitte feladat\Programozas\obj\Debug\net6.0\deloitte.genruntimeconfig.cache
+C:\Users\Matyi\OneDrive\Asztali gép\Deloitte feladat\Programozas\obj\Debug\net6.0\ref\deloitte.dll
